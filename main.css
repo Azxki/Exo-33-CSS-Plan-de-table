@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 3px;
+    border: 3px solid black;
+}
+
+
+.classe {
+    position: absolute;
+    box-shadow: 2px 2px 5px 4px rgba(0, 0, 0, 0.66);
+    width: 30%;
+    margin-left: 650px;
+    margin-top: 200px;
+}
+
+.Jerome {
+    align-items: center;
+    text-align: center;
+    margin-left: 270px;
+}
+
+.Table1 {
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.Table2 {
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 15px;
+}
+
+.Table3 {
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 120px;
+}
+
+.Table4 {
+    margin-left: 120px;
+    margin-top: 120px;
+}
+
+.porte {
+    width: 10%;
+    margin-top: 120px;
+    margin-left: 70px;
+}
